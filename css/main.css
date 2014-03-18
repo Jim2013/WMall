@@ -1,0 +1,26 @@
+a{text-decoration:none;}
+a:hover{text-decoration:none;}
+.catalog{
+	background: #f0a143; 
+	text-align: center;
+	color:white;
+	font-size: large;
+}
+ .white
+{
+  color:white;
+}
+.thumbnail{
+	padding:0;
+	border:none;
+}
+
+hr
+{
+	margin: 0 0 10px 0;
+}
+
+#mySwipe div img
+{
+  margin:0 auto;
+}
